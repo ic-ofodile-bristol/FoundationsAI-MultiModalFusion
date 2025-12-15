@@ -1,0 +1,20 @@
+# Large datasets (DO NOT UPLOAD)
+2011_10_03_drive_*/
+2011_09_26_drive_*/
+
+# Generated outputs
+results_kitti/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
