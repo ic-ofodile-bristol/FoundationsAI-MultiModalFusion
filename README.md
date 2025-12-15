@@ -7,7 +7,6 @@ developed for the **Foundations in AI** coursework.
 The system fuses **RGB camera images, LiDAR point clouds, and GPS/IMU data**
 from the KITTI dataset to analyse scene structure and visual busyness.
 
-
 ## Features
 - YOLOv5-based object detection (semantic perception)
 - Camera–LiDAR projection and fusion
